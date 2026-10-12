@@ -24,7 +24,7 @@
   var panel = document.createElement('div'); panel.className = 'tgt-panel'; panel.setAttribute('role', 'dialog'); panel.setAttribute('aria-label', 'Ask the research agent');
   panel.innerHTML = '<div class="tgt-head"><span>Ask the Agent</span><button type="button" aria-label="Close">×</button></div>'
     + '<div class="tgt-log"></div><div class="tgt-chips"></div><div class="tgt-note"></div>'
-    + '<div class="tgt-row"><input type="text" maxlength="400" placeholder="Ask about a ticker, member, or trade..."><button type="button">Ask</button></div>';
+    + '<div class="tgt-row"><input type="text" maxlength="400" placeholder="Ask about any stock, member, or trade..."><button type="button">Ask</button></div>';
   document.body.appendChild(panel); document.body.appendChild(btn);
   var log = panel.querySelector('.tgt-log'), input = panel.querySelector('input'), send = panel.querySelector('.tgt-row button'),
       note = panel.querySelector('.tgt-note'), chips = panel.querySelector('.tgt-chips');
@@ -35,11 +35,11 @@
     note.textContent = left > 0 ? left + ' of ' + LIMIT + ' questions left this visit. Not investment advice.' : 'You have reached the ' + LIMIT + '-question limit for this visit. Please come back later.';
     input.disabled = send.disabled = left <= 0;
   }
-  ['Which members of Congress bought stock this week?', 'What are Congress’s most traded tickers lately?', 'Any recent corporate insider buying?'].forEach(function (q) {
+  ['What is the current price and outlook for NVDA?', 'Which members of Congress bought stock this week?', 'Show me recent insider buying activity'].forEach(function (q) {
     var c = document.createElement('button'); c.type = 'button'; c.className = 'tgt-chip'; c.textContent = q;
     c.addEventListener('click', function () { input.value = q; input.focus(); }); chips.appendChild(c);
   });
-  add('Hi! Ask me about a stock Congress is trading, a member of Congress, or a corporate insider.', 'tgt-b');
+  add('Hi! Ask me about any stock ticker, a member of Congress, or corporate insider activity. Not investment advice.', 'tgt-b');
   refresh();
 
   function parseChunks(text, onPiece) {
