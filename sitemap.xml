@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://texasgrillertrades.com/member/john-boozman/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/member/david-j-taylor/</loc><lastmod>2026-10-15</lastmod></url>
 <url><loc>https://texasgrillertrades.com/member/richard-w-allen/</loc><lastmod>2026-10-14</lastmod></url>
 <url><loc>https://texasgrillertrades.com/member/richard-dean-mccormick/</loc><lastmod>2026-10-14</lastmod></url>
@@ -11,6 +12,7 @@
 <url><loc>https://texasgrillertrades.com/member/lisa-mcclain/</loc><lastmod>2026-10-01</lastmod></url>
 <url><loc>https://texasgrillertrades.com/member/maria-elvira-salazar/</loc><lastmod>2026-10-01</lastmod></url>
 <url><loc>https://texasgrillertrades.com/member/sheldon-whitehouse/</loc><lastmod>2026-10-01</lastmod></url>
+<url><loc>https://texasgrillertrades.com/member/jonathan-jackson/</loc><lastmod>2026-10-01</lastmod></url>
 <url><loc>https://texasgrillertrades.com/member/michael-rulli/</loc><lastmod>2026-09-28</lastmod></url>
 <url><loc>https://texasgrillertrades.com/member/pete-sessions/</loc><lastmod>2026-09-22</lastmod></url>
 <url><loc>https://texasgrillertrades.com/member/a-mitchell-mcconnell-jr/</loc><lastmod>2026-09-21</lastmod></url>
@@ -20,10 +22,8 @@
 <url><loc>https://texasgrillertrades.com/member/cleo-fields/</loc><lastmod>2026-09-14</lastmod></url>
 <url><loc>https://texasgrillertrades.com/member/august-lee-pfluger-ii/</loc><lastmod>2026-09-14</lastmod></url>
 <url><loc>https://texasgrillertrades.com/member/thomas-h-kean-jr/</loc><lastmod>2026-09-12</lastmod></url>
-<url><loc>https://texasgrillertrades.com/member/john-boozman/</loc><lastmod>2026-09-11</lastmod></url>
 <url><loc>https://texasgrillertrades.com/member/april-mcclain-delaney/</loc><lastmod>2026-09-09</lastmod></url>
 <url><loc>https://texasgrillertrades.com/member/cory-booker/</loc><lastmod>2026-09-09</lastmod></url>
-<url><loc>https://texasgrillertrades.com/member/jonathan-jackson/</loc><lastmod>2026-09-03</lastmod></url>
 <url><loc>https://texasgrillertrades.com/member/john-j-mcguire-iii/</loc><lastmod>2026-09-02</lastmod></url>
 <url><loc>https://texasgrillertrades.com/member/jared-moskowitz/</loc><lastmod>2026-08-27</lastmod></url>
 <url><loc>https://texasgrillertrades.com/member/kelly-louise-morrison/</loc><lastmod>2026-08-25</lastmod></url>
@@ -78,6 +78,7 @@
 <url><loc>https://texasgrillertrades.com/ticker/hubb/</loc><lastmod>2026-09-09</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/jpm/</loc><lastmod>2026-10-01</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/lrcx/</loc><lastmod>2026-09-02</lastmod></url>
+<url><loc>https://texasgrillertrades.com/ticker/mu/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/ph/</loc><lastmod>2026-09-15</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/unh/</loc><lastmod>2026-10-01</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/v/</loc><lastmod>2026-10-01</lastmod></url>
@@ -111,7 +112,6 @@
 <url><loc>https://texasgrillertrades.com/ticker/mkl/</loc><lastmod>2026-09-09</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/mlm/</loc><lastmod>2026-09-09</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/mpc/</loc><lastmod>2026-10-01</lastmod></url>
-<url><loc>https://texasgrillertrades.com/ticker/mu/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/pep/</loc><lastmod>2026-09-17</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/pgr/</loc><lastmod>2026-09-04</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/pltr/</loc><lastmod>2026-09-04</lastmod></url>
@@ -129,6 +129,7 @@
 <url><loc>https://texasgrillertrades.com/ticker/cl/</loc><lastmod>2026-09-15</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/clh/</loc><lastmod>2026-09-09</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/cost/</loc><lastmod>2026-10-14</lastmod></url>
+<url><loc>https://texasgrillertrades.com/ticker/csco/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/ea/</loc><lastmod>2026-09-10</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/ese/</loc><lastmod>2026-09-09</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/hon/</loc><lastmod>2026-10-01</lastmod></url>
@@ -139,8 +140,10 @@
 <url><loc>https://texasgrillertrades.com/ticker/medp/</loc><lastmod>2026-05-28</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/mrsh/</loc><lastmod>2026-09-15</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/nflx/</loc><lastmod>2026-09-15</lastmod></url>
+<url><loc>https://texasgrillertrades.com/ticker/o/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/panw/</loc><lastmod>2026-08-10</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/qcom/</loc><lastmod>2026-09-09</lastmod></url>
+<url><loc>https://texasgrillertrades.com/ticker/spym/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/tsco/</loc><lastmod>2026-09-09</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/wmb/</loc><lastmod>2026-09-17</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/adi/</loc><lastmod>2026-10-01</lastmod></url>
@@ -150,7 +153,6 @@
 <url><loc>https://texasgrillertrades.com/ticker/cmcsa/</loc><lastmod>2026-09-04</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/coin/</loc><lastmod>2026-09-10</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/crwd/</loc><lastmod>2026-09-04</lastmod></url>
-<url><loc>https://texasgrillertrades.com/ticker/csco/</loc><lastmod>2026-08-14</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/ctva/</loc><lastmod>2026-10-09</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/ddog/</loc><lastmod>2026-10-01</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/dis/</loc><lastmod>2026-09-01</lastmod></url>
@@ -161,6 +163,8 @@
 <url><loc>https://texasgrillertrades.com/ticker/fds/</loc><lastmod>2026-04-04</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/fdx/</loc><lastmod>2026-09-04</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/fis/</loc><lastmod>2026-10-09</lastmod></url>
+<url><loc>https://texasgrillertrades.com/ticker/gigb/</loc><lastmod>2026-10-21</lastmod></url>
+<url><loc>https://texasgrillertrades.com/ticker/ief/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/kvue/</loc><lastmod>2026-09-04</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/lmt/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/ma/</loc><lastmod>2026-07-21</lastmod></url>
@@ -170,7 +174,6 @@
 <url><loc>https://texasgrillertrades.com/ticker/nee/</loc><lastmod>2026-08-14</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/nke/</loc><lastmod>2026-09-10</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/nxpi/</loc><lastmod>2026-10-09</lastmod></url>
-<url><loc>https://texasgrillertrades.com/ticker/o/</loc><lastmod>2026-08-14</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/otis/</loc><lastmod>2026-09-11</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/pfe/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/pld/</loc><lastmod>2026-03-05</lastmod></url>
@@ -179,8 +182,8 @@
 <url><loc>https://texasgrillertrades.com/ticker/pton/</loc><lastmod>2026-10-01</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/sbux/</loc><lastmod>2026-09-15</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/sols/</loc><lastmod>2026-09-01</lastmod></url>
-<url><loc>https://texasgrillertrades.com/ticker/spym/</loc><lastmod>2026-09-11</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/tdg/</loc><lastmod>2026-09-09</lastmod></url>
+<url><loc>https://texasgrillertrades.com/ticker/tlh/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/tmo/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/tsla/</loc><lastmod>2026-09-10</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/tsm/</loc><lastmod>2026-10-09</lastmod></url>
@@ -189,6 +192,7 @@
 <url><loc>https://texasgrillertrades.com/ticker/vrtx/</loc><lastmod>2026-09-05</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/wdc/</loc><lastmod>2026-10-09</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/wmt/</loc><lastmod>2026-09-10</lastmod></url>
+<url><loc>https://texasgrillertrades.com/ticker/xfiv/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/abbv/</loc><lastmod>2026-09-18</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/adp/</loc><lastmod>2026-08-14</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/alc/</loc><lastmod>2026-09-01</lastmod></url>
@@ -196,6 +200,7 @@
 <url><loc>https://texasgrillertrades.com/ticker/anet/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/aort/</loc><lastmod>2026-09-10</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/apd/</loc><lastmod>2026-08-14</lastmod></url>
+<url><loc>https://texasgrillertrades.com/ticker/aptv/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/asml/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/awk/</loc><lastmod>2026-08-14</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/axp/</loc><lastmod>2026-07-21</lastmod></url>
@@ -208,6 +213,7 @@
 <url><loc>https://texasgrillertrades.com/ticker/cboe/</loc><lastmod>2026-08-17</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/chtr/</loc><lastmod>2026-09-14</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/cien/</loc><lastmod>2026-07-21</lastmod></url>
+<url><loc>https://texasgrillertrades.com/ticker/cmbs/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/coco/</loc><lastmod>2026-10-09</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/cohr/</loc><lastmod>2026-09-10</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/crm/</loc><lastmod>2026-07-21</lastmod></url>
@@ -228,7 +234,6 @@
 <url><loc>https://texasgrillertrades.com/ticker/ftgc/</loc><lastmod>2026-07-13</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/ftnt/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/gehc/</loc><lastmod>2026-07-21</lastmod></url>
-<url><loc>https://texasgrillertrades.com/ticker/gigb/</loc><lastmod>2026-06-16</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/gmed/</loc><lastmod>2026-10-09</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/googn/</loc><lastmod>2026-08-10</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/hli/</loc><lastmod>2026-09-10</lastmod></url>
@@ -237,13 +242,14 @@
 <url><loc>https://texasgrillertrades.com/ticker/hsy/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/hwm/</loc><lastmod>2026-09-15</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/ice/</loc><lastmod>2026-08-14</lastmod></url>
-<url><loc>https://texasgrillertrades.com/ticker/ief/</loc><lastmod>2026-07-13</lastmod></url>
+<url><loc>https://texasgrillertrades.com/ticker/jmbs/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/khc/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/kmb/</loc><lastmod>2026-09-01</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/lhx/</loc><lastmod>2026-08-14</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/lin/</loc><lastmod>2026-09-12</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/lite/</loc><lastmod>2026-09-04</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/lly/</loc><lastmod>2026-07-21</lastmod></url>
+<url><loc>https://texasgrillertrades.com/ticker/mbb/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/mchp/</loc><lastmod>2026-10-09</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/mdlz/</loc><lastmod>2026-08-10</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/mfp/</loc><lastmod>2026-09-09</lastmod></url>
@@ -285,11 +291,12 @@
 <url><loc>https://texasgrillertrades.com/ticker/trv/</loc><lastmod>2026-08-17</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/ua/</loc><lastmod>2026-05-29</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/ups/</loc><lastmod>2026-07-21</lastmod></url>
+<url><loc>https://texasgrillertrades.com/ticker/vea/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/vlto/</loc><lastmod>2026-09-01</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/vrsk/</loc><lastmod>2026-09-10</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/wday/</loc><lastmod>2026-09-10</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/well/</loc><lastmod>2026-07-21</lastmod></url>
-<url><loc>https://texasgrillertrades.com/ticker/xfiv/</loc><lastmod>2026-06-16</lastmod></url>
+<url><loc>https://texasgrillertrades.com/ticker/xtwo/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/abcb/</loc><lastmod>2026-09-04</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/abnb/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/acgl/</loc><lastmod>2026-07-21</lastmod></url>
@@ -313,7 +320,6 @@
 <url><loc>https://texasgrillertrades.com/ticker/aon/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/apg/</loc><lastmod>2026-09-10</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/apo/</loc><lastmod>2026-07-21</lastmod></url>
-<url><loc>https://texasgrillertrades.com/ticker/aptv/</loc><lastmod>2026-08-17</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/arcc/</loc><lastmod>2026-07-24</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/ares/</loc><lastmod>2026-04-14</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/argx/</loc><lastmod>2026-07-21</lastmod></url>
@@ -350,7 +356,6 @@
 <url><loc>https://texasgrillertrades.com/ticker/chkp/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/ci/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/cinf/</loc><lastmod>2026-10-09</lastmod></url>
-<url><loc>https://texasgrillertrades.com/ticker/cmbs/</loc><lastmod>2026-06-16</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/cme/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/cnm/</loc><lastmod>2026-09-09</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/cof/</loc><lastmod>2026-07-21</lastmod></url>
@@ -381,6 +386,7 @@
 <url><loc>https://texasgrillertrades.com/ticker/dri/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/dva/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/ebay/</loc><lastmod>2026-07-21</lastmod></url>
+<url><loc>https://texasgrillertrades.com/ticker/efa/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/eg/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/elv/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/enbp/</loc><lastmod>2026-04-23</lastmod></url>
@@ -459,7 +465,6 @@
 <url><loc>https://texasgrillertrades.com/ticker/ivv/</loc><lastmod>2026-09-11</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/ix/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/jd/</loc><lastmod>2026-09-09</lastmod></url>
-<url><loc>https://texasgrillertrades.com/ticker/jmbs/</loc><lastmod>2026-06-16</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/kdp/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/key/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/kim/</loc><lastmod>2026-07-21</lastmod></url>
@@ -478,7 +483,6 @@
 <url><loc>https://texasgrillertrades.com/ticker/lyg/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/maa/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/mar/</loc><lastmod>2026-07-21</lastmod></url>
-<url><loc>https://texasgrillertrades.com/ticker/mbb/</loc><lastmod>2026-06-16</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/mbgl/</loc><lastmod>2026-08-25</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/met/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/mfg/</loc><lastmod>2026-07-21</lastmod></url>
@@ -567,7 +571,6 @@
 <url><loc>https://texasgrillertrades.com/ticker/tbll/</loc><lastmod>2026-05-08</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/ter/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/teva/</loc><lastmod>2026-07-21</lastmod></url>
-<url><loc>https://texasgrillertrades.com/ticker/tlh/</loc><lastmod>2026-06-16</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/tm/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/tmus/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/tndm/</loc><lastmod>2026-10-09</lastmod></url>
@@ -579,13 +582,13 @@
 <url><loc>https://texasgrillertrades.com/ticker/txn/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/txrh/</loc><lastmod>2026-09-10</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/txt/</loc><lastmod>2026-07-21</lastmod></url>
+<url><loc>https://texasgrillertrades.com/ticker/tyg/</loc><lastmod>2026-10-01</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/tyl/</loc><lastmod>2026-09-10</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/ubs/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/udr/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/uhs/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/unp/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/uri/</loc><lastmod>2026-07-21</lastmod></url>
-<url><loc>https://texasgrillertrades.com/ticker/vea/</loc><lastmod>2026-04-14</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/viav/</loc><lastmod>2026-09-04</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/vici/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/voyg/</loc><lastmod>2026-05-01</lastmod></url>
@@ -602,16 +605,15 @@
 <url><loc>https://texasgrillertrades.com/ticker/wsm/</loc><lastmod>2026-10-12</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/wwsyx/</loc><lastmod>2026-09-11</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/wynn/</loc><lastmod>2026-07-21</lastmod></url>
-<url><loc>https://texasgrillertrades.com/ticker/xtwo/</loc><lastmod>2026-06-16</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/yum/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/zbh/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/zts/</loc><lastmod>2026-09-04</lastmod></url>
 <url><loc>https://texasgrillertrades.com/members/</loc></url>
 <url><loc>https://texasgrillertrades.com/tickers/</loc></url>
-<url><loc>https://texasgrillertrades.com/</loc><lastmod>2026-10-21</lastmod></url>
+<url><loc>https://texasgrillertrades.com/</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://texasgrillertrades.com/about/</loc></url>
-<url><loc>https://texasgrillertrades.com/treasury-auctions/</loc><lastmod>2026-10-21</lastmod></url>
-<url><loc>https://texasgrillertrades.com/most-traded-stocks/</loc><lastmod>2026-10-21</lastmod></url>
+<url><loc>https://texasgrillertrades.com/treasury-auctions/</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://texasgrillertrades.com/most-traded-stocks/</loc><lastmod>2026-10-22</lastmod></url>
 <url><loc>https://texasgrillertrades.com/research/short-interest/</loc><lastmod>2026-10-12</lastmod></url>
 <url><loc>https://texasgrillertrades.com/research/spacex-share-pledge/</loc><lastmod>2026-10-19</lastmod></url>
 <url><loc>https://texasgrillertrades.com/research/</loc><lastmod>2026-10-19</lastmod></url>
