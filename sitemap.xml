@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://texasgrillertrades.com/member/josh-gottheimer/</loc><lastmod>2026-11-04</lastmod></url>
 <url><loc>https://texasgrillertrades.com/member/shelley-m-capito/</loc><lastmod>2026-11-04</lastmod></url>
+<url><loc>https://texasgrillertrades.com/member/john-j-mcguire-iii/</loc><lastmod>2026-11-04</lastmod></url>
 <url><loc>https://texasgrillertrades.com/member/sheldon-whitehouse/</loc><lastmod>2026-11-02</lastmod></url>
 <url><loc>https://texasgrillertrades.com/member/maria-elvira-salazar/</loc><lastmod>2026-11-01</lastmod></url>
 <url><loc>https://texasgrillertrades.com/member/david-j-taylor/</loc><lastmod>2026-10-29</lastmod></url>
@@ -13,7 +14,6 @@
 <url><loc>https://texasgrillertrades.com/member/cleo-fields/</loc><lastmod>2026-10-09</lastmod></url>
 <url><loc>https://texasgrillertrades.com/member/gilbert-cisneros/</loc><lastmod>2026-10-09</lastmod></url>
 <url><loc>https://texasgrillertrades.com/member/lloyd-doggett/</loc><lastmod>2026-10-05</lastmod></url>
-<url><loc>https://texasgrillertrades.com/member/john-j-mcguire-iii/</loc><lastmod>2026-10-02</lastmod></url>
 <url><loc>https://texasgrillertrades.com/member/kevin-hern/</loc><lastmod>2026-10-02</lastmod></url>
 <url><loc>https://texasgrillertrades.com/member/lisa-mcclain/</loc><lastmod>2026-10-01</lastmod></url>
 <url><loc>https://texasgrillertrades.com/member/thomas-h-kean-jr/</loc><lastmod>2026-10-01</lastmod></url>
@@ -150,6 +150,7 @@
 <url><loc>https://texasgrillertrades.com/ticker/spym/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/tsco/</loc><lastmod>2026-09-09</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/tsm/</loc><lastmod>2026-10-09</lastmod></url>
+<url><loc>https://texasgrillertrades.com/ticker/wdc/</loc><lastmod>2026-11-04</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/wmb/</loc><lastmod>2026-09-17</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/adi/</loc><lastmod>2026-10-01</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/amcr/</loc><lastmod>2026-09-12</lastmod></url>
@@ -192,7 +193,6 @@
 <url><loc>https://texasgrillertrades.com/ticker/ttd/</loc><lastmod>2026-10-09</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/uber/</loc><lastmod>2026-09-04</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/vrtx/</loc><lastmod>2026-09-05</lastmod></url>
-<url><loc>https://texasgrillertrades.com/ticker/wdc/</loc><lastmod>2026-10-09</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/wmt/</loc><lastmod>2026-09-10</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/xfiv/</loc><lastmod>2026-10-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/ticker/abbv/</loc><lastmod>2026-09-18</lastmod></url>
@@ -612,9 +612,9 @@
 <url><loc>https://texasgrillertrades.com/ticker/zbh/</loc><lastmod>2026-07-21</lastmod></url>
 <url><loc>https://texasgrillertrades.com/members/</loc></url>
 <url><loc>https://texasgrillertrades.com/tickers/</loc></url>
-<url><loc>https://texasgrillertrades.com/</loc><lastmod>2026-11-09</lastmod></url>
+<url><loc>https://texasgrillertrades.com/</loc><lastmod>2026-11-10</lastmod></url>
 <url><loc>https://texasgrillertrades.com/about/</loc></url>
-<url><loc>https://texasgrillertrades.com/most-traded-stocks/</loc><lastmod>2026-11-09</lastmod></url>
+<url><loc>https://texasgrillertrades.com/most-traded-stocks/</loc><lastmod>2026-11-10</lastmod></url>
 <url><loc>https://texasgrillertrades.com/research/short-interest/</loc><lastmod>2026-10-12</lastmod></url>
 <url><loc>https://texasgrillertrades.com/research/spacex-share-pledge/</loc><lastmod>2026-10-19</lastmod></url>
 <url><loc>https://texasgrillertrades.com/research/</loc><lastmod>2026-10-19</lastmod></url>
